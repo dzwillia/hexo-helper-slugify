@@ -1,0 +1,25 @@
+{
+  "name": "hexo-helper-slugify",
+  "version": "0.0.1",
+  "description": "Helper function to create slugs from strings in Hexo.",
+  "author": "David Z. Williams <dave@flex.io>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dzwillia/hexo-helper-slugify.git"
+  },
+  "keywords": [
+    "hexo",
+    "helper",
+    "slug",
+    "slugify"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dzwillia/hexo-helper-slugify/issues"
+  },
+  "homepage": "https://github.com/dzwillia/hexo-helper-slugify#readme"
+}
