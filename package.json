@@ -1,6 +1,6 @@
 {
   "name": "hexo-helper-slugify",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Helper function to create slugs from strings in Hexo.",
   "author": "David Z. Williams <dave@flex.io>",
   "main": "index.js",
