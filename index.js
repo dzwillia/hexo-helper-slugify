@@ -20,7 +20,7 @@ function kebabCase(str) {
   return res
 }
 
-function createStr(arg) {
+function slugify(arg) {
   // return kebab-case of `arg`
   if (typeof arg === 'string')
     return kebabCase(arg)
@@ -40,4 +40,4 @@ function createStr(arg) {
   return ''
 }
 
-hexo.extend.helper.register('slugify', createStr)
+hexo.extend.helper.register('slugify', slugify)
