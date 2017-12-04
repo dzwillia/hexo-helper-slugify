@@ -41,5 +41,3 @@ function slugify(arg) {
 }
 
 hexo.extend.helper.register('slugify', slugify)
-
-module.exports = slugify
